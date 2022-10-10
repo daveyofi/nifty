@@ -6,21 +6,21 @@ All of the collections are different by design which created with one of the pop
   
 ## 2019  
 
-soon
+soon  
   
 ## 2020   
   
-**[Digital sentiments and awareness](https://sergeyioffe.webflow.io)**
+**[Digital sentiments and awareness](https://sergeyioffe.webflow.io)**  
   
 ## 2021  
 
 soon  
-
+  
 ## 2022  
 
 soon  
-
-
+  
 ## 2023   
 
-soon
+soon  
+  
