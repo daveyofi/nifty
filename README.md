@@ -10,9 +10,7 @@ soon
   
 ## 2020  
 
-Topic: digital sentiments and awareness  
-  
-  
+**Digital sentiments and awareness**  
 [sergeyioffe.webflow.io](https://sergeyioffe.webflow.io) 
   
 ## 2021  
