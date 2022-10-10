@@ -8,11 +8,9 @@ All of the collections are different by design which created with one of the pop
 
 soon
   
-## 2020  
-
-**Digital sentiments and awareness**  
+## 2020   
   
-[sergeyioffe.webflow.io](https://sergeyioffe.webflow.io) 
+**[Digital sentiments and awareness](https://sergeyioffe.webflow.io)**
   
 ## 2021  
 
